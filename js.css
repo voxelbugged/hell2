@@ -1,0 +1,19 @@
+html
+{
+    cursor:url(holy.png), auto;
+    text-align:center;
+    font-family:Papyrus;
+    background-image:linear-gradient(90deg, rgba(255,0,0,0.9) 0%, rgba(255,255,0,0.9) 20%, rgba(0,255,0,0.9) 40%, rgba(0,255,255,0.9) 60%, rgba(0,0,255,0.9) 80%, rgba(255,0,255,0.9) 100%), url("Edward_Gierek_1980.jpg");
+}
+.tiny
+{
+    width:10%;
+}
+.minibabka
+{
+    width:2%;
+}
+#cool:hover
+{
+    filter:brightness(2);
+}
